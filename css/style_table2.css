@@ -1,0 +1,29 @@
+table {
+    border: 1px solid red;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+td,tr{
+    border: 1px solid red;
+}
+
+.color1 {
+    background-color: rgb(75, 173, 55);  
+}
+.color2 {
+    background-color: rgb(255, 251, 0);  
+}
+.color3 {
+    background-color: rgb(255, 0, 0);  
+}
+.color4 {
+    background-color: rgb(25, 139, 233);  
+}
+.color5 {
+    background-color: rgb(173, 20, 92);  
+}
+.color6 {
+    background-color: rgb(182, 137, 15);  
+}

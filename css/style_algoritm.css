@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.forms{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+ul{
+    padding-left: 30px;
+    font-size:1.5em;
+    list-style-type: square;
+}
+p{
+    font-size: 18px;
+}
+img{
+    width: 20%;
+}
+h2{
+    font-size: 2em;
+}
+span{ 
+    font-style: italic;
+}
